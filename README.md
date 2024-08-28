@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=devium335&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=danielkorkin&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 # About Me
@@ -21,8 +21,8 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devium335)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielkorkin)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Follow me on HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-xl.svg)](https://huggingface.co/devium335)
 
-![Snake animation](https://raw.githubusercontent.com/devium335/devium335/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/danielkorkin/danielkorkin/output/github-contribution-grid-snake-dark.svg)
